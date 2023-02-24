@@ -1,16 +1,12 @@
-### Hi there 👋
+Me gusta las empanadas :octocat:          
+A veces duermo y otras veces programo :cloud:
+##### Projects in progress
+* My website
+##### Future projects
+* Automated inventory
+<!---
+Naheshi/Naheshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-<!--
-**naheshi/naheshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Naheshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=naheshi&show_icons=true&theme=radical)
